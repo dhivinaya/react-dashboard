@@ -1,3 +1,20 @@
+# React Dashboard
+
+This is a modern React dashboard application with the following features:
+✅ Login & Welcome page  
+✅ Dashboard with live stats, metrics, charts  
+✅ File upload section  
+✅ Responsive and clean UI
+
+---
+
+### How to run
+```bash
+npm install
+npm run dev
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
